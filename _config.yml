@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title:Bored cats
+description: Here you can find many cool games and interesting facts.
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://Bored-cats.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author:Bored cats  
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author:If you´re bored this blog will be of use.
 social-twitter: 
 social-facebook: 
 social-github: 
