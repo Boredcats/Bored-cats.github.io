@@ -19,4 +19,4 @@ I´m so happy that you came, here **my friend** and in this blog I´m going to t
   
 ###### And I´think that was all for today...I expected this blog to be longer but I think I´m done. GOOD BYE GUYS! I know you will miss me:)
 
- #### Wait...wait!!!! Don´t go without reading my "logo": ## All the fruits have a carrot.
+ #### Wait...wait!!!! Don´t go without reading my "logo": *All the fruits have a carrot.*
