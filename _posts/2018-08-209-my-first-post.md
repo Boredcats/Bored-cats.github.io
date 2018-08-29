@@ -1,6 +1,6 @@
 ---
 layout: post
-title:my first post.
+title: my first post.
 date: 2018-08-20
 description:My blog presentation.
 img: html-img.jpg 
