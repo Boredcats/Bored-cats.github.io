@@ -19,13 +19,12 @@ I´m so happy that you came here, **my friend**, and in this blog I´m going to 
   
 3. `Animals`; I looooooooove them, they are so cute!!!
   
-4. `Opinion`; I´m a tenneager and I can speak of my thoughts for an hour...or two.
+4. `Opinion`; I´m a teenager and I can speak of my thoughts for an hour...or two.
   
 5. `Many other`; random stuff and I´m so lazy to explain myself with this.
   
 ##### And I´think that was all for today...I expected this blog to be longer but I think I´m done. GOOD BYE GUYS! I know you will miss me:)
 
-
-## > Wait...wait!!!! Don´t go without reading my "logo": *All the fruits have a carrot.*
+> Wait...wait!!!! Don´t go without reading my "logo": *All the fruits have a carrot.*
 
 
