@@ -1061,12 +1061,12 @@ table tfoot td {
   background-color:  #ff784f;
 }
 nav ul li a.active {
-	background: #3281b2;
+	background: #ffff00;
 	color: #ffffff;
 }
 nav ul li a:hover {
 	background: #3281b2;
-	color: #ffffff;
+	color: #55009b;
 }
 
 nav ul li a {
