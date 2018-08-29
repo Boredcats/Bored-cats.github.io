@@ -10,7 +10,7 @@ tags: [Newblog, Presentation]
 
 # Welcome to my blog.
 
-I´m so happy that you came, here **my friend** and in this blog I´m going to talk about:
+I´m so happy that you came here, **my friend**, and in this blog I´m going to talk about:
 1.<My life>; yes I´m alive and I´ve got so many stories to tell you.
 2.<Food>; I´m going to talk about my favourite food...emm...yummy.
 3.<Animals>; I looooooooove them, they are so cute!!!
