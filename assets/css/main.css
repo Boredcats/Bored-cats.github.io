@@ -801,11 +801,11 @@ img + em {
 }
 
 blockquote {
-	border-left: 5px solid #b800fc;
+	border-left: 5px solid #2efc00 ;
 	padding-left: 1.1rem;
 	margin-left: 1rem;
 	font-style: italic;
-	color: #2efc00;
+	color:#b800fc;
 }
 
 pre {
