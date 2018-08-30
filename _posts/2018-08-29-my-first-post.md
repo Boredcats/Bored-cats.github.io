@@ -26,7 +26,7 @@ I´m so happy that you came here, **my friend**, and in this blog I´m going to 
 # And here you can watch one of my favourite videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUlj6WgpbzQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- >And if you´re reading this you can visit [a very special place] ("http://freerice.com/#/english-vocabulary/1643"), in this page you can donnate rice to poor people while you´re learning and it´s compleetly free. I only wanted to share this with if you wanted to donate something to poor people, thank youuu.
+
  
 ##### And I´think that was all for today...I expected this blog to be longer but I think I´m done. GOOD BYE GUYS! I know you will miss me:)
  
