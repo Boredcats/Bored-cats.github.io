@@ -3,7 +3,7 @@ layout: post
 title: my first post.
 date: 2018-08-29
 description: My blog presentation.
-img: html-img.jpg 
+img: pegaso.jpg
 fig-caption: 
 tags: [Newblog, Presentation]
 ---
